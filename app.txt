@@ -1,7 +1,4 @@
 Hello Git
 Second Line
 Third Line
-Fourth Line (not committed)
-Fourth Line (not committed)
-Fourth Line (not committed)
-Fifth Line (for stash demo)
+Sixth Line (stash demo)
